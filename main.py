@@ -32,7 +32,7 @@ def dechiffre(ciphertext, key, iv):
 
 
 print("######################################")
-print("#### CHIFFREMENT LUCAS GICQUEL AES ###")
+print("#### CHIFFREMENT PYTHON AES ##########")
 print("######################################\n")
 
 choixAction = int(input("Bonjour voulez vous chiffrer ou déchiffrer ?\n 1: Chiffrer \n 2: Déchiffrer\n"))
